@@ -1,0 +1,183 @@
+
+{
+  "left": {
+    "intro": "Hello! My name is",
+    "name": "Petya Stoeva",
+    "title": "Recent Computer Science Graduate | Data Analyst | Aspiring Software Engineer",
+    "my resume": "https://drive.google.com/file/d/1HOpCNApEpo40to5w61p6OuJUxlXcNG8x/view?usp=sharing"
+  },
+  "right": {
+    "photo": "https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/Petya.jpeg?v=1749862488611",
+    "phone": "",
+    "email": "petyavlstoeva@gmail.com",
+    "address": "Cambridge, MA",
+    "linkedin": "https://www.linkedin.com/in/petya-stoeva/",
+    "github": "https://github.com/petya-stoeva"
+  },
+  "about": {
+  "title": "About...",
+  "info": "Hi, I’m Petya!<br />I’m currently a Data Analyst at Wayfair, where I use data and code to uncover insights, automate workflows, and support marketing decision-making. I recently earned my Bachelor of Science degree in Computer Science from Boston College. <br /><br />I’m passionate about Software Engineering, Robotics, and Artificial Intelligence, and I’m always seeking opportunities that will allow me to grow as a developer while building meaningful, user-focused technology. My goal is to deepen my expertise through hands-on experience—particularly in collaborative, product-driven environments. After gaining a few years of industry experience, I plan to pursue a Master’s degree in Computer Science to further specialize.<br /><br />In my free time, I like to learn languages through Duolingo and to play chess and the guitar! I am also a part of the Bulgarian Dance ensemble, Ludo Mlado, in Boston. In the past, I volunteered at Life Care Center of Stoneham and Bulgarian School of Boston 'Sv. Sv. Kiril i Metodii.'"
+},
+  "news": [
+    {
+    "info": "I currently work for Wayfair as a Data Analyst.",
+    "date": "August 2024"
+    },
+    {
+    "info": "Graduated Boston College with a <em>Bachelor of Science degree</em> in CS",
+    "date": "May 2024"
+    },
+    {
+    "info": "Worked as a TA for <em>Introduction to Operations Research</em> at Boston College.",
+    "date": "Spring 2024"
+    },
+    {
+      "info": "Used to TA for <em>Topics in Data Science</em> at Boston College.",
+      "date": "Fall 2023"
+    },
+    {
+      "info": "Became President of <em>Women in Computer Science</em> at Boston College",
+      "date": "April 2023"
+    },
+    {
+      "info": "Served as Head TA for <em>Computer Systems</em> at Boston College.",
+      "date": "Spring 2023"
+    },
+    {
+      "info": "Spent the semester studying abroad at <em>Universidad Carlos III de Madrid</em>.",
+      "date": "Fall 2022"
+    },
+    {
+      "info": "Became President of <em>Bulgarian Club</em> at Boston College.",
+      "date": "May 2022"
+    },
+    {
+      "info": "Used to TA for <em>Computer Organization</em> and lead weekly labs in MIPs and Verilog at Boston College.",
+      "date": "Spring 2022"
+    },
+    {
+      "info": "Earned the <em>Seal of Biliteracy</em> in Spanish",
+      "date": "May 2020"
+    },
+    {
+      "info": "Earned the <em>Seal of Biliteracy with Distinction</em> in Bulgarian",
+      "date": "January 2019"
+    }
+  ],
+"skills": [
+  {
+  "id": "Python",
+  "photo": "https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/NewPython?v=1750443425538"
+  },
+  {
+  "id": "HTML",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/HTML?v=1749871741461" 
+  },
+    {
+  "id": "CSS",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/CSS?v=1749871744532" 
+  },
+    {
+  "id": "JavaScript",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/JavaScript?v=1749871773039" 
+  },
+  {
+  "id": "React",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/React?v=1749871756044" 
+  },
+    {
+  "id": "ReactNative",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/Native?v=1749871759637" 
+  },
+    {
+  "id": "Java",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/Java?v=1749872363381"
+  },
+  {
+  "id": "SQL",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/NewSQL?v=1750445765091"
+  },
+  {
+  "id": "C++",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/C++?v=1749871769714" 
+  },
+  {
+  "id": "MongoDB",
+  "photo":"https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/MongoDB?v=1749871752244" 
+  }
+],
+"projects": [
+      {
+      "id":"project1",
+      "num": "Project 1",
+      "title": "Eagle Connect",
+      "description": "Eagle Connect aims to answer two questions: 'How can we tap into the strong BC alumni network? How can we find a better way for BC students to gain career advice and job opportunities from BC alumni?' While there are many other websites for networking including LinkedIn and Handshake, they rely on cold messaging, which is especially difficult when you are not sure you are contacting the right people in the right sectors. Eagle Connect solves these problems by allowing both alumni and students to reach out, establishing common ground and shared interests. It is a React web application with a MangoDB database. Click on the pic to check it out!",
+      "photo": "https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/Screen%20Shot%202024-03-01%20at%204.16.13%20PM.png?v=1709327778962",
+      "link": "https://eagleconnect.onrender.com/",
+      "videos": [],
+      "language": "HTML, CSS, ReactNative"
+    },
+      {
+      "id":"project2",
+      "num": "Project 2",
+      "title": "Eagle Vision",
+      "description": "Eagle Vision is a DjangoPython based web application that aims to ease the course registration process for both students and administrators. It allows users to filter courses based on various criteria, create watchlists, and receive email notifications when a selected class meets the criteria for open seats. Admins can review requests, open and close the system, and access and save detailed reports on student activities. The project integrates Auth0 for Google authentication, AP Background Scheduler for API calls and email notifications, and offers the option to export schedules as PDF files for convenience. It was deployed using Railway but the monthly payments to keep the site live were recently stopped. It is still available in GitHub.",
+      "photo": "https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/Screenshot%202025-06-29%20at%208.03.28%E2%80%AFPM.png?v=1751241864549",
+      "link": "",
+      "videos": [],
+      "language": "HTML, CSS, DjangoPython"
+    },
+    {
+      "id":"project3",
+      "num": "Project 3",
+      "title": "Smart Robot Car",
+      "description": "I have had the opportunity to experiment with an Arduino set and ELEGOO Smart Car. These videos demonstrate some of what I've learned!",
+      "photo": "",
+      "link": "",
+      "videos": ["https://cdn.glitch.me/53f96445-da0f-46f1-9168-0fc8542e08a6/RemoteControl.mov?v=1709663930847", "https://cdn.glitch.me/53f96445-da0f-46f1-9168-0fc8542e08a6/LineTrackingObstacle.mov?v=1709663941566"],
+      "language": "C++"
+    },
+    {
+      "id":"project4",
+      "num": "Project 4",
+      "title": "LoveBug",
+      "description": "Designed this interactive Valentine's Day Card for a Women in Computer Science workshop I led. The card was taught to and adapted by over 40 users. Click on the pic to check it out!",
+      "photo": "https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/Screenshot%202025-06-29%20at%207.55.54%E2%80%AFPM.png?v=1751241427996",
+      "link": "https://lovebug-template2.glitch.me",
+      "videos": [],
+      "language": "HTML, CSS, JavaScript"
+    },
+    {
+      "id":"project5",
+      "num": "Project 5",
+      "title": "Drum Hero",
+      "description": "Drum Hero is an object-oriented, Java drum machine, in which the user enters a string using the keys ‘a’, ‘s’, ‘d’ which each correspond to a determined type of drum. More specifically, ‘a’ corresponds to the bass drum, ‘s’ to the snare drum, and ‘d’ to the hi-hat. To run the program, the user must run Driver.java. First the file will output a little welcome design to the console. I used the Ascii Art website for the picture of the drum on the design.txt file and an Ascii text generator website for the ascii text also (see all citations on the last page). Then the user is prompted to enter a drum sequence, which again is simply a chain of the letters a, s, or d. Then they must enter a reasonable tempo, meaning a positive number between 40 and 240. After that they have the option of playing their “beat” on loop, until they enter the key “q” during any point or just playing it once through.",
+      "photo": "",
+      "link": "",
+      "videos": [],
+      "language": "Java"
+    },
+    {
+      "id":"project6",
+      "num": "Project 6",
+      "title": "Craps Simulation",
+      "description": "A Object-Oriented Python program which simulates a craps game. There are two options: playing with rigged or normal die. The purpose of this program was to demonstrate conditional probability to determine the probability of winning “given” rolling a certain point, the total probability of winning, as well as the expected winning and the variance.",
+      "photo": "",
+      "link": "",
+      "videos": [],
+      "language": "Python"
+    },
+    {
+      "id":"project7",
+      "num": "Project 7",
+      "title": "Zip & Unzip",
+      "description": "Two versions of a program in C which compresses and uncompresses a given ﬁle based on LZW algorithm, one using library io functions while the other uses basic io.",
+      "link": "",
+      "videos": [],
+      "language": "C "
+    }
+  ]
+}
+  
+       
+
