@@ -1,7 +1,7 @@
 
 {
   "topbar": {
-    "photo":"../assets/laptop.png"
+    "photo":"/petyastoeva/assets/laptop.png"
   },
   "left": {
     "intro": "Hello! My name is",
@@ -10,7 +10,7 @@
     "my resume": "https://drive.google.com/file/d/16nwJKSl1--V4MInZwUKcCqmfW6LEEI7I/view?usp=sharing"
   },
   "right": {
-    "photo": "../assets/personalpic.jpeg",
+    "photo": "/petyastoeva/assets/personalpic.jpeg",
     "phone": "",
     "email": "petyavlstoeva@gmail.com",
     "address": "Cambridge, MA",
@@ -70,43 +70,43 @@
 "skills": [
   {
   "id": "Python",
-  "photo": "../assets/pythonLogo.png"
+  "photo": "/petyastoeva/assets/pythonLogo.png"
   },
   {
   "id": "HTML",
-  "photo":"../assets/html5Logo.png" 
+  "photo":"/petyastoeva/assets/html5Logo.png" 
   },
     {
   "id": "CSS",
-  "photo":"../assets/css3Logo.png" 
+  "photo":"/petyastoeva/assets/css3Logo.png" 
   },
     {
   "id": "JavaScript",
-  "photo":"../assets/javascriptLogo.png" 
+  "photo":"/petyastoeva/assets/javascriptLogo.png" 
   },
   {
   "id": "React",
-  "photo":"../assets/reactLogo.png" 
+  "photo":"/petyastoeva/assets/reactLogo.png" 
   },
     {
   "id": "ReactNative",
-  "photo":"../assets/reactNativeLogo.png" 
+  "photo":"/petyastoeva/assets/reactNativeLogo.png" 
   },
     {
   "id": "Java",
-  "photo":"../assets/javaLogo.png"
+  "photo":"/petyastoeva/assets/javaLogo.png"
   },
   {
   "id": "SQL",
-  "photo":"../assets/sqlLogo.png"
+  "photo":"/petyastoeva/assets/sqlLogo.png"
   },
   {
   "id": "C++",
-  "photo":"../assets/c++Logo.png" 
+  "photo":"/petyastoeva/assets/c++Logo.png" 
   },
   {
   "id": "MongoDB",
-  "photo":"../assets/mongoDBLogo.png" 
+  "photo":"/petyastoeva/assets/mongoDBLogo.png" 
   }
 ],
 "projects": [
@@ -115,7 +115,7 @@
       "num": "Project 1",
       "title": "Eagle Connect",
       "description": "Eagle Connect aims to answer two questions: 'How can we tap into the strong BC alumni network? How can we find a better way for BC students to gain career advice and job opportunities from BC alumni?' While there are many other websites for networking including LinkedIn and Handshake, they rely on cold messaging, which is especially difficult when you are not sure you are contacting the right people in the right sectors. Eagle Connect solves these problems by allowing both alumni and students to reach out, establishing common ground and shared interests. It is a React web application with a MangoDB database. Click on the pic to check it out!",
-      "photo": "../assets/EagleConnect.png",
+      "photo": "/petyastoeva/assets/EagleConnect.png",
       "link": "https://eagleconnect.onrender.com/",
       "videos": [],
       "language": "HTML, CSS, ReactNative"
@@ -125,7 +125,7 @@
       "num": "Project 2",
       "title": "Eagle Vision",
       "description": "Eagle Vision is a DjangoPython based web application that aims to ease the course registration process for both students and administrators. It allows users to filter courses based on various criteria, create watchlists, and receive email notifications when a selected class meets the criteria for open seats. Admins can review requests, open and close the system, and access and save detailed reports on student activities. The project integrates Auth0 for Google authentication, AP Background Scheduler for API calls and email notifications, and offers the option to export schedules as PDF files for convenience. It was deployed using Railway but the monthly payments to keep the site live were recently stopped. It is still available in GitHub.",
-      "photo": "../assets/EagleVision.png",
+      "photo": "/petyastoeva/assets/EagleVision.png",
       "link": "",
       "videos": [],
       "language": "HTML, CSS, DjangoPython"
@@ -137,7 +137,7 @@
       "description": "I have had the opportunity to experiment with an Arduino set and ELEGOO Smart Car. These videos demonstrate some of what I've learned!",
       "photo": "",
       "link": "",
-      "videos": ["../assets/LineTrackingObstacle.mov", "../assets/RemoteControl.mov"],
+      "videos": ["/petyastoeva/assets/LineTrackingObstacle.mov", "/petyastoeva/assets/RemoteControl.mov"],
       "language": "C++"
     },
     {
@@ -145,7 +145,7 @@
       "num": "Project 4",
       "title": "LoveBug",
       "description": "Designed this interactive Valentine's Day Card for a Women in Computer Science workshop I led. The card was taught to and adapted by over 40 users. Click on the pic to check it out!",
-      "photo": "../assets/Lovebug.png",
+      "photo": "/petyastoeva/assets/Lovebug.png",
       "link": "https://lovebug-template2.glitch.me",
       "videos": [],
       "language": "HTML, CSS, JavaScript"
@@ -155,7 +155,7 @@
       "num": "Project 5",
       "title": "Drum Hero",
       "description": "Drum Hero is an object-oriented, Java drum machine, in which the user enters a string using the keys ‘a’, ‘s’, ‘d’ which each correspond to a determined type of drum. More specifically, ‘a’ corresponds to the bass drum, ‘s’ to the snare drum, and ‘d’ to the hi-hat. To run the program, the user must run Driver.java. First the file will output a little welcome design to the console. I used the Ascii Art website for the picture of the drum on the design.txt file and an Ascii text generator website for the ascii text also. Then the user is prompted to enter a drum sequence, which again is simply a chain of the letters a, s, or d. Then they must enter a reasonable tempo, meaning a positive number between 40 and 240. After that they have the option of playing their “beat” on loop, until they enter the key “q” during any point or just playing it once through.",
-      "photo": "../assets/DrumHero.png",
+      "photo": "/petyastoeva/assets/DrumHero.png",
       "link": "",
       "videos": [],
       "language": "Java"
