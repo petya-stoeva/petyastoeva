@@ -28,7 +28,7 @@ body {
   position: fixed;
   top: 0;
   background-color: #d9d3c6;
-  background-image: url(https://cdn.glitch.com/53f96445-da0f-46f1-9168-0fc8542e08a6/laptop.png?v=1697685978286);
+  background-image: url(./assets/laptop.png);
   background-size: 50px;
   background-repeat: no-repeat;
   background-position: 1% 30%;
@@ -40,7 +40,7 @@ body {
 }
 
 #topbar ul {
-  margin-left: 75px;
+  margin-left: 70px;
 }
 
 li {
@@ -60,6 +60,12 @@ a {
 a:hover {
   color: white;
   background-color: lightgrey;
+}
+
+.links-wrapper a.no-highlight:hover {
+  background-color: inherit;
+  color: inherit;
+  cursor: default;
 }
 
 main {
