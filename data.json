@@ -7,7 +7,7 @@
     "my resume": "https://drive.google.com/file/d/16nwJKSl1--V4MInZwUKcCqmfW6LEEI7I/view?usp=sharing"
   },
   "right": {
-    "photo": "/assets/personalpic.jpeg",
+    "photo": "/petyastoeva/assets/personalpic.jpeg",
     "phone": "",
     "email": "petyavlstoeva@gmail.com",
     "address": "Cambridge, MA",
@@ -67,43 +67,43 @@
 "skills": [
   {
   "id": "Python",
-  "photo": "/assets/pythonLogo.png"
+  "photo": "/petyastoeva/assets/pythonLogo.png"
   },
   {
   "id": "HTML",
-  "photo":"/assets/html5Logo.png" 
+  "photo":"/petyastoeva/assets/html5Logo.png" 
   },
     {
   "id": "CSS",
-  "photo":"/assets/css3Logo.png" 
+  "photo":"/petyastoeva/assets/css3Logo.png" 
   },
     {
   "id": "JavaScript",
-  "photo":"/assets/javascriptLogo.png" 
+  "photo":"/petyastoeva/assets/javascriptLogo.png" 
   },
   {
   "id": "React",
-  "photo":"/assets/reactLogo.png" 
+  "photo":"/petyastoeva/assets/reactLogo.png" 
   },
     {
   "id": "ReactNative",
-  "photo":"/assets/reactNativeLogo.png" 
+  "photo":"/petyastoeva/assets/reactNativeLogo.png" 
   },
     {
   "id": "Java",
-  "photo":"/assets/javaLogo.png"
+  "photo":"/petyastoeva/assets/javaLogo.png"
   },
   {
   "id": "SQL",
-  "photo":"/assets/sqlLogo.png"
+  "photo":"/petyastoeva/assets/sqlLogo.png"
   },
   {
   "id": "C++",
-  "photo":"/assets/c++Logo.png" 
+  "photo":"/petyastoeva/assets/c++Logo.png" 
   },
   {
   "id": "MongoDB",
-  "photo":"/assets/mongoDBLogo.png" 
+  "photo":"/petyastoeva/assets/mongoDBLogo.png" 
   }
 ],
 "projects": [
